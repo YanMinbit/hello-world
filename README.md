@@ -12,3 +12,4 @@ through this tutorial, I've learned :
     Changed a file and committed those changes to GitHub
     Opened and merged a Pull Request
 
+for more github guides, follow this link https://guides.github.com/
