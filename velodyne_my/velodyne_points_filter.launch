@@ -1,0 +1,6 @@
+<launch>
+
+
+  <node pkg="velodyne_my" type="velodyne_points_filter" name="velodyne_points_filter"/>
+
+</launch>

@@ -1,0 +1,8 @@
+<launch>
+
+  <include file="$(find velodyne_pointcloud)/launch/VLP16_points.launch"/>
+
+
+  <node pkg="velodyne_my" type="velodyne_tutorial1" name="my_velodyne_pcl_tutorial"/>
+
+</launch>
